@@ -1,0 +1,13 @@
+{
+	"name": "xfra35/f3-queue",
+	"description": "Jobs queueing for the PHP Fat-Free Framework",
+	"keywords": ["F3","fatfree","cron","queue"],
+	"homepage": "https://github.com/jesobreira/f3-queue",
+	"license": "GPL-3.0-only",
+	"autoload": {
+		"classmap": ["lib/"]
+	},
+	"require": {
+		"bcosca/fatfree-core": "~3.5"
+	}
+}
